@@ -3,3 +3,4 @@ dwm/config.h
 dwm/*.o
 dwm/*.orig
 dwm/*.rej
+patches/
